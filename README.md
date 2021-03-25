@@ -4,12 +4,19 @@
 The project is on predicting the salary of programmers based on the StackOverFlow survey done in 2017.
 
 The libraries used are:
+	
 	pandas
+	
 	numpy
+	
 	seaborn
+	
 	random
+	
 	sklearn
+	
 	matplotlib
+	
 	missingno
 	
 **Project Motivation**
