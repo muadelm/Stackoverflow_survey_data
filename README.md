@@ -44,7 +44,13 @@ The analysis will follow the CRISP-DM steps:
 
 6) Deployment
 
+**Takeaways and summary fo teh analysis**
 
+`1-` The majority of respondents to the survey came from 10 countries; United States, India, United Kingdom, Germany, Canada, France, Poland, Australia, Russian Federation, and Spain. Programers in the United States earned the most while India and Russia earned the lowest.
+
+`2-` The salary of a programmer is not related to education level as many earned more through a university degree. This could highlight the role of online education in building competent skillsets.
+
+`3-` Our linear regression model that relied mainly on education, country and company size did not manage to predict salaried above $50,000 with good accuracy. More feature engineering work is required to enhance model performance.
 
 **Author:**
 Mustafa Adel Amer
